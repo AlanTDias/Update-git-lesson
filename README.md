@@ -1,21 +1,26 @@
-# Update-git-lesson
+# Up-file-to-github
 
-1-git init inicia um arquvio
+* git init inicia um arquvio
 
-2-_git add *
+* git add *
 
-3-_git commit -m "comenta um arquivo"
+* git commit -m "commited file"
 
-4-git remote add origin https://github.com/seunome/seuconteudo.git
+* git remote add origin https://github.com/seunome/seuconteudo.git
 
-5-git push origin master
+* git push origin master
 
-# Git Bash update arquivo.
+# update file.
 
-1-_git add *
+* git add *
 
-2-_git commit -m "comenta um arquivo"
+* git commit -m "commited file"
 
-3-git pull origin master
+* git pull origin master
 
-4-git push origin master
+* git push origin master
+
+<p>
+<p>
+<a href="" rel="some text"><img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/d/dc/EmojiBlitzBuzzLightyear-PowerUp.png/revision/latest/scale-to-width-down/185?cb=20201231131624" alt="buzzlight" /></a>
+<p><i>to infinity and beyond 
