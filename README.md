@@ -20,6 +20,12 @@
 
 * git push origin master
 
+# Create New Branch
+
+* git checkout -b "new branch name"
+
+* git push origin "new branch"
+
 <p>
   
 <p>
