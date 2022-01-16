@@ -26,6 +26,8 @@
 
 * git push origin "new branch"
 
+* git checkout "name branch Swap"
+
 <p>
   
 <p>
